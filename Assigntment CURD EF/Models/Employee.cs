@@ -18,6 +18,7 @@ namespace Assigntment_CURD_EF.Models
        
         public string Name { get; set; }
 
+
   
         public int Salary { get; set; }
 
